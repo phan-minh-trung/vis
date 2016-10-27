@@ -1,0 +1,19 @@
+
+// Fonts
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css);
+
+// Ionicons
+@import url(https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css);
+
+// Variables
+@import "admin/variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+// AdminLTE Theme style
+@import "node_modules/admin-lte/dist/css/AdminLTE.min";
+
+// AdminLTE Skins. Choose a skin from the css/skins
+// folder instead of downloading all of them to reduce the load.
+@import "node_modules/admin-lte/dist/css/skins/skin-blue.min";
